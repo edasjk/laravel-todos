@@ -1,4 +1,4 @@
-Tis is simple Todo App done with Laravel.<br>
+This is simple Todo App done with Laravel.<br>
 Features:<br>
 <ul>
 <li>Creates a Todo</li>
