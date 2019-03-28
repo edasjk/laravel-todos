@@ -1,3 +1,13 @@
+Tis is simple Todo App done with Laravel.
+Features:
+Creates a Todo
+Todo List
+View a Todo
+Edit a Todo
+Delete a Todo
+Mark Todo as completed
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
